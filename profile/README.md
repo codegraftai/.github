@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codegraftai/.github/main/assets/logo.png" width="200" height="200" alt="codegraftai logo" />
+  <img src="https://raw.githubusercontent.com/codegraftai/.github/main/assets/codegraft_full_screen_logo.jpeg" width="600" alt="codegraftai logo" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <h3>Structural Integrity for Modern Software. Ensuring architectural coherence and preventing structural drift in high-velocity engineering teams.</h3>
   
   <p>
-    <a href="https://codegraftai.github.io/codegraftai/">Our Homepage</a>
+    <a href="https://codegraftai.invariantcontinuum.com/">Our Homepage</a>
     <a href="mailto:contact@codegraftai.io">Get In Touch</a>
   </p>
 </div>
