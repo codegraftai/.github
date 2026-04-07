@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/codegraftai/.github/main/assets/logo.png" width="200" height="200" alt="codegraftai logo" />
+</div>
+
+<div align="center">
   <h1>CodeGraft AI</h1>
   <h3>Structural Integrity for Modern Software. Ensuring architectural coherence and preventing structural drift in high-velocity engineering teams.</h3>
   
