@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>CodeGraft AI</h1>
+  <h1>codegraftai</h1>
   <h3>Structural Integrity for Modern Software. Ensuring architectural coherence and preventing structural drift in high-velocity engineering teams.</h3>
   
   <p>
@@ -15,6 +15,7 @@
 ---
 
 ### 🚀 Our Vision
+
 
 At **CodeGraft AI**, our core mission is focused on:
 > Structural Integrity for Modern Software. Ensuring architectural coherence and preventing structural drift in high-velocity engineering teams.
@@ -30,5 +31,5 @@ We welcome contributions from everyone. Check out our repositories and get invol
 ---
 
 <div align="center">
-  <small>© 2026 CodeGraft AI. Built for the Community.</small>
+  <small>© 2026 codegraftai. Built for the Community.</small>
 </div>
